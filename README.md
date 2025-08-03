@@ -32,5 +32,35 @@ All projects are located in the `Basic/` directory.
 
 ---
 
-## 📁 Folder Structure
+# 🧠 Intermediate Python Projects
+
+This repository contains a collection of **intermediate-level Python projects**, designed to deepen your understanding of real-world programming, APIs, file management, and CLI applications.
+
+All projects are located in the `Intermediate/` folder.
+
+---
+
+## 📁 Project List
+
+| Filename                      | Description |
+|------------------------------|-------------|
+| `todo_list.py`               | Enhanced to-do list app with due dates, status toggling, and persistent save |
+| `password_generator.py`      | Customizable password generator with character selection and strength rating |
+| `dice_roller.py`             | Simulates rolling a die with realistic ASCII dice visuals |
+| `quiz_app.py`                | Trivia quiz using Open Trivia DB API, supports category and difficulty selection |
+| `file_organizer.py`          | Smart file organizer that classifies files by type and handles duplicates |
+| `notepad.py`                 | Timestamped notepad with search, backups, and clear-all functionality |
+| `expense_tracker.py`         | Expense tracker with categories, summaries, and date-based filters |
+| `contact_app.py`             | Contact book with phone/email validation, duplicate checking, and editing support |
+| `word_guess_game.py`         | Word guessing game using an API or fallback dictionary with hints and scoring |
+
+---
+
+## 🛠 Requirements
+
+Most projects run with just Python 3. However, a few may require additional packages:
+
+```bash
+pip install requests
+
 
