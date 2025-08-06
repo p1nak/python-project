@@ -34,7 +34,7 @@ All projects are located in the `Basic/` directory.
 
 # 🧠 Intermediate Python Projects
 
-This repository contains a collection of **intermediate-level Python projects**, designed to deepen your understanding of real-world programming, APIs, file management, and CLI applications.
+This repository contains a collection of **intermediate-level Python projects**, built to enhance your skills in Python development, game logic, data handling, APIs, and terminal interaction.
 
 All projects are located in the `Intermediate/` folder.
 
@@ -53,14 +53,19 @@ All projects are located in the `Intermediate/` folder.
 | `expense_tracker.py`         | Expense tracker with categories, summaries, and date-based filters |
 | `contact_app.py`             | Contact book with phone/email validation, duplicate checking, and editing support |
 | `word_guess_game.py`         | Word guessing game using an API or fallback dictionary with hints and scoring |
+| `maze_path_finder.py`        | Visual maze pathfinder using BFS and animated with `curses` |
+| `qr_code_generator.py`       | QR code generator with custom colors and embedded logo |
+| `slot_machine.py`            | Console-based slot machine game with betting and balance system |
+| `wpm_typing_test.py`         | WPM typing test in the terminal with real-time speed and color feedback |
+| `aim_trainer.py`             | Real-time aim training game with hit/miss stats, speed, and accuracy display |
 
 ---
 
 ## 🛠 Requirements
 
-Most projects run with just Python 3. However, a few may require additional packages:
+Some projects use additional Python packages:
 
 ```bash
-pip install requests
+pip install requests pillow qrcode pygame
 
 
