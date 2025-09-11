@@ -29,6 +29,7 @@ All projects are located in the `Basic/` directory.
 | `pig_game.py`                    | Multiplayer pig dice game |
 | `rock_paper_scissor.py`          | Play rock-paper-scissor against the computer |
 | `taking_screenshot.py`           | Capture and save a screenshot using `pyscreenshot` |
+| `bank_acc.py`                    | Object-oriented banking system with error handling and account transfers |
 
 ---
 
