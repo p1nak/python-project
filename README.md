@@ -29,7 +29,6 @@ All projects are located in the `Basic/` directory.
 | `pig_game.py`                    | Multiplayer pig dice game |
 | `rock_paper_scissor.py`          | Play rock-paper-scissor against the computer |
 | `taking_screenshot.py`           | Capture and save a screenshot using `pyscreenshot` |
-| `bank_acc.py`                    | Object-oriented banking system with error handling and account transfers |
 
 ---
 
@@ -59,6 +58,7 @@ All projects are located in the `Intermediate/` folder.
 | `slot_machine.py`            | Console-based slot machine game with betting and balance system |
 | `wpm_typing_test.py`         | WPM typing test in the terminal with real-time speed and color feedback |
 | `aim_trainer.py`             | Real-time aim training game with hit/miss stats, speed, and accuracy display |
+| `bank_acc.py`                | Object-oriented banking system with error handling and account transfers |
 
 ---
 
